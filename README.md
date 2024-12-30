@@ -1,0 +1,1 @@
+"Hello this is a little exercise about class to work with files and paths, the challenge here is to use the BufferedWriter, BufferedReader, Filewriter and FileReader, the studant should create one file in a path, also created on it, using OOP and show same information in the terminal"  
